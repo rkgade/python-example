@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
 import sys
-print "Parameter is : " sys.argv[1:]
+print "Parameter is : " ,sys.argv[1:]
